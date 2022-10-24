@@ -1,0 +1,36 @@
+{
+	"name": "undangan",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@popperjs/core": "^2.11.6",
+		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/adapter-netlify": "^1.0.0-next.81",
+		"@sveltejs/kit": "next",
+		"autoprefixer": "^10.4.12",
+		"classnames": "^2.3.2",
+		"flowbite": "^1.5.3",
+		"flowbite-svelte": "^0.27.4",
+		"postcss": "^8.4.16",
+		"svelte": "^3.44.0",
+		"svelte-copy": "^1.2.4",
+		"svelte-preprocess": "^4.10.7",
+		"tailwindcss": "^3.1.8",
+		"vite": "^3.1.0"
+	},
+	"type": "module",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"daisyui": "^2.31.0",
+		"svelte-avatar": "^1.1.1",
+		"svelte-countdown": "^1.1.2",
+		"svelte-inview": "^3.0.1",
+		"svelte-navigator": "^3.2.2",
+		"svelte-scrolling": "^1.2.2"
+	}
+}
