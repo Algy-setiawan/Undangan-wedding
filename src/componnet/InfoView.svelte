@@ -48,7 +48,8 @@
           <div in:fly="{{ x: 200, duration: 1000 }}">
     <div class="divider font-['sofiaregular'] text-2xl">LOKASI</div>         
         <div class="card-body items-center text-center">  
-          <p>Jl. Kerkof No.21, Leuwigajah, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40532</p>
+          <p>Gedung Sentra Abiyoso</p>
+            <p>Jl. Kerkof No.21, Leuwigajah, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40532</p>
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.8881870479186!2d107.5321081!3d-6.9039726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e5a699b38c51%3A0x66562e246b39d91b!2sSentra%20Abiyoso!5e0!3m2!1sen!2sid!4v1664396003326!5m2!1sen!2sid" width="350" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
         </div>
         </div>
