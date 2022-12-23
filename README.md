@@ -1,7 +1,7 @@
 # Wedding Anggie & Bayu
 
 - Framework : Svelte, DaisyUi
-- Api       : Jsonbin
+- Api       : Jsonbin.io
 - Language  : Html, Javascript
 - Link      : https://wedding-anggie-bayu.site/
 
