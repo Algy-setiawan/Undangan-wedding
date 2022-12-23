@@ -2,7 +2,7 @@
 
 - Framework : Svelte, DaisyUi
 - Api       : Jsonbin
-- language  : Html, Javascript
+- Language  : Html, Javascript
 - Link      : https://wedding-anggie-bayu.site/
 
 # Form Tamu 
